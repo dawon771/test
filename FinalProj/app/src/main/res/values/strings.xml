@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">final</string>
+
+    <string name="btn_busstop">정류장번호으로 검색하기</string>
+    <string name="btn_busnum">버스번호로 검색하기</string>
+    <string name="btn_busstopname">정류장이름으로 검색하기</string>
+
+</resources>
